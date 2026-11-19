@@ -1,0 +1,19 @@
+# Служебные файлы ОС
+.DS_Store
+
+# Результаты сборки
+build/
+build-*/
+cmake-build-*/
+
+# Файлы IDE
+.vscode/
+.idea/
+*.user
+*.autosave
+
+# Временные файлы
+*.o
+*.obj
+*.pdb
+*.ilk
